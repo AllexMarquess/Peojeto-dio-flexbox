@@ -111,40 +111,14 @@ header .menu{
     min-width: 420px;
 }
 
-.container-externo{
-    background-color: #122A57;
-    width: 100%;
-
-}
-
-#servicos{
-    flex-direction: column;
-    margin-top: 50px;
-    margin-bottom: 100px;
-}
-
-#servicos{
-    color: #fff;
-    font-size: 32px;
-    margin-bottom: 20px;
-}
-
-.list-servicos{
+footer{
     display: flex;
-    justify-content: space-around;
+    width: 100%;
+    margin-top: 15px;
+    align-items: center;
+    justify-content: center;
+    color: #122A57;
+
+    
 }
 
-.list-servicos .item-servico{
-    text-align: center;
-
-}
-
-.item-servico a{
-    width: 120px;
-    background-color: #fff;
-    border-radius: 30px;
-    height: 50px;
-    text-align: center;
-    line-height: 50px;
-
-}
